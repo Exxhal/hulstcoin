@@ -1,0 +1,9 @@
+Building Hulstcoin
+
+See doc/readme-qt.rst for instructions on building Hulstcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hulstcoin.
+
+See doc/build-*.txt for instructions on building hulstcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hulstcoin.
