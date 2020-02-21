@@ -3,7 +3,7 @@ Hulstcoin
 
 What is Hulstcoin?
 
-Hulstcoin is a clone of Litecoin I made as part of a Youtube series documenting the process. 
+Hulstcoin is a clone of Litecoin/Funcoin I made as part of a Youtube series documenting the process. 
 [Series Playlist](https://www.youtube.com/playlist?list=PLHWfvuRy-9gdCv2oD_Ywd0swNF3N8mXt-&disable_polymer=true)
 
 Hulstcoin properties:
@@ -14,8 +14,8 @@ Hulstcoin properties:
 
 -Maximum supply of 350k coins
 
-[Hulstcoin Block Explorer](http://159.65.188.63:8000/)
+[Hulstcoin Block Explorer](http://51.75.191.193:3001/)
 
-[Hulstcoin Faucet](http://159.65.188.63/)
+[Hulstcoin Faucet](http://51.75.191.193:3001//)
 
-# [Hulstcoin Release](https://github.com/schyczewski/hulstcoin/releases/tag/v0.8)
+# [Hulstcoin Release](https://github.com/Exxhal/hulstcoin/releases/tag/v1.8)
