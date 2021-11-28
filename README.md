@@ -14,8 +14,8 @@ Hulstcoin properties:
 
 -Maximum supply of 350k coins
 
-[Hulstcoin Block Explorer](http://51.75.191.193:3001/)
+[Hulstcoin.nl](https://www.hulstcoin.nl/)
 
-[Hulstcoin Faucet](http://51.75.191.193:3001//)
 
-# [Hulstcoin Release](https://github.com/Exxhal/hulstcoin/releases/tag/v1.8)
+
+# [Hulstcoin Release](https://github.com/Exxhal/hulstcoin/releases/tag/v2.0)
